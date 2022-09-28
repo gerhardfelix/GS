@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Lifella Day!</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/red_heart.ico" />
       </Head>
 
       <main>
